@@ -1,0 +1,62 @@
+#side{
+	
+	background: #333;
+	color:#fff;
+ 
+}
+.buy {
+  color: #2da1c1;
+  font-size: large;
+  text-decoration: none;
+  float: right;
+ 
+}
+#buy1 {
+
+  font-size: large;
+  text-decoration: none;
+}
+.btn-search {
+  background: #424242;
+  border-radius: 0;
+  color: #fff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1c1c1c;
+}
+.yellam{
+    margin: 50px 50px 40px 100px;
+  }
+.bigblue {
+    color: DodgerBlue;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+.p{
+  font-weight: bold;
+}
+
+#buy2 {
+
+  font-size: large;
+  text-decoration: none;
+}
+
+.foo {
+  
+  width: 100%;
+  vertical-align: auto;
+  /* Small Devices, Tablets */
+  @media only screen and (min-width : 768px) {
+    width: 75%;
+   
+  }
+
+  /* Medium Devices, Desktops */
+  @media only screen and (min-width : 992px) {
+    width: 50%;
+    
+  }
+  
+}
